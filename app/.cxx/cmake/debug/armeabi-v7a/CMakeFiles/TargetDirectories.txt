@@ -1,0 +1,3 @@
+D:/android_project/cnn/ncnn-android-yolov5-master/ncnn-android-yolov5-master/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/yolov5ncnn.dir
+D:/android_project/cnn/ncnn-android-yolov5-master/ncnn-android-yolov5-master/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/android_project/cnn/ncnn-android-yolov5-master/ncnn-android-yolov5-master/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

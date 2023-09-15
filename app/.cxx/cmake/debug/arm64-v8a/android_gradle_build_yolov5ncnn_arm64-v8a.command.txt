@@ -1,0 +1,7 @@
+Executable : D:\Android_Pro\android_sdk\new_SDK\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\android_project\cnn\ncnn-android-yolov5-master\ncnn-android-yolov5-master\app\.cxx\cmake\debug\arm64-v8a
+yolov5ncnn
+jvmArgs : 
+
