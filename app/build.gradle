@@ -19,6 +19,7 @@ android {
         cmake {
             version "3.10.2"
             path file('src/main/jni/CMakeLists.txt')
+
         }
     }
 }

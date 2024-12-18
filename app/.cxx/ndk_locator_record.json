@@ -1,5 +1,5 @@
 {
-  "ndkFolder": "D:\\Android_Pro\\android_sdk\\new_SDK\\ndk\\21.0.6113669",
+  "ndkFolder": "D:\\AndroidFiles\\sdk\\ndk\\21.0.6113669",
   "messages": [
     {
       "level": "INFO",
@@ -7,7 +7,7 @@
     },
     {
       "level": "INFO",
-      "message": "ndk.dir in local.properties is D:\\Android_Pro\\android_sdk\\new_SDK\\ndk\\21.0.6113669"
+      "message": "ndk.dir in local.properties is D:\\AndroidFiles\\sdk\\ndk\\21.0.6113669"
     },
     {
       "level": "INFO",
@@ -15,35 +15,43 @@
     },
     {
       "level": "INFO",
-      "message": "sdkFolder is D:\\Android_Pro\\android_sdk\\new_SDK"
+      "message": "sdkFolder is D:\\AndroidFiles\\sdk"
     },
     {
       "level": "INFO",
-      "message": "Considering D:\\Android_Pro\\android_sdk\\new_SDK\\ndk\\21.0.6113669 by ndk.dir"
+      "message": "Considering D:\\AndroidFiles\\sdk\\ndk\\21.0.6113669 by ndk.dir"
     },
     {
       "level": "INFO",
-      "message": "Considering D:\\Android_Pro\\android_sdk\\new_SDK\\ndk-bundle in SDK ndk-bundle folder"
+      "message": "Considering D:\\AndroidFiles\\sdk\\ndk-bundle in SDK ndk-bundle folder"
     },
     {
       "level": "INFO",
-      "message": "Considering D:\\Android_Pro\\android_sdk\\new_SDK\\ndk\\21.0.6113669 in SDK ndk folder"
+      "message": "Considering D:\\AndroidFiles\\sdk\\ndk\\16.1.4479499 in SDK ndk folder"
     },
     {
       "level": "INFO",
-      "message": "Considering D:\\Android_Pro\\android_sdk\\new_SDK\\ndk\\21.4.7075529 in SDK ndk folder"
+      "message": "Considering D:\\AndroidFiles\\sdk\\ndk\\20.0.5594570 in SDK ndk folder"
     },
     {
       "level": "INFO",
-      "message": "Considering D:\\Android_Pro\\android_sdk\\new_SDK\\ndk\\25.1.8937393 in SDK ndk folder"
+      "message": "Considering D:\\AndroidFiles\\sdk\\ndk\\21.0.6113669 in SDK ndk folder"
     },
     {
       "level": "INFO",
-      "message": "Rejected D:\\Android_Pro\\android_sdk\\new_SDK\\ndk-bundle in SDK ndk-bundle folder because that location has no source.properties"
+      "message": "Considering D:\\AndroidFiles\\sdk\\ndk\\21.4.7075529 in SDK ndk folder"
     },
     {
       "level": "INFO",
-      "message": "Found requested ndk.dir (D:\\Android_Pro\\android_sdk\\new_SDK\\ndk\\21.0.6113669) which has version 21.0.6113669"
+      "message": "Considering D:\\AndroidFiles\\sdk\\ndk\\25.1.8937393 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Rejected D:\\AndroidFiles\\sdk\\ndk-bundle in SDK ndk-bundle folder because that location has no source.properties"
+    },
+    {
+      "level": "INFO",
+      "message": "Found requested ndk.dir (D:\\AndroidFiles\\sdk\\ndk\\21.0.6113669) which has version 21.0.6113669"
     }
   ]
 }

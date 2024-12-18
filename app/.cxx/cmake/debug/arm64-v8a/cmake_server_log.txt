@@ -16,8 +16,8 @@ CMAKE SERVER: {
     "major": 1,
     "minor": 1
   },
-  "sourceDirectory": "D:/android_project/cnn/ncnn-android-yolov5-master/ncnn-android-yolov5-master/app/src/main/jni",
-  "buildDirectory": "D:/android_project/cnn/ncnn-android-yolov5-master/ncnn-android-yolov5-master/app/.cxx/cmake/debug/arm64-v8a",
+  "sourceDirectory": "C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/src/main/jni",
+  "buildDirectory": "C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/.cxx/cmake/debug/arm64-v8a",
   "generator": "Ninja"
 }
 
@@ -39,17 +39,17 @@ CMAKE SERVER: {
     "",
     "-DANDROID_ABI\u003darm64-v8a",
     "-DANDROID_PLATFORM\u003dandroid-24",
-    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\android_project\\cnn\\ncnn-android-yolov5-master\\ncnn-android-yolov5-master\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Alpha\\Documents\\GitHub\\ncnn-android-yolov5-master\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
     "-DCMAKE_BUILD_TYPE\u003dDebug",
-    "-DANDROID_NDK\u003dD:\\Android_Pro\\android_sdk\\new_SDK\\ndk\\21.0.6113669",
+    "-DANDROID_NDK\u003dD:\\AndroidFiles\\sdk\\ndk\\21.0.6113669",
     "-DCMAKE_SYSTEM_NAME\u003dAndroid",
     "-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a",
     "-DCMAKE_SYSTEM_VERSION\u003d24",
     "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
-    "-DCMAKE_ANDROID_NDK\u003dD:\\Android_Pro\\android_sdk\\new_SDK\\ndk\\21.0.6113669",
-    "-DCMAKE_TOOLCHAIN_FILE\u003dD:\\Android_Pro\\android_sdk\\new_SDK\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "-DCMAKE_ANDROID_NDK\u003dD:\\AndroidFiles\\sdk\\ndk\\21.0.6113669",
+    "-DCMAKE_TOOLCHAIN_FILE\u003dD:\\AndroidFiles\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
     "-G Ninja",
-    "-DCMAKE_MAKE_PROGRAM\u003dD:\\Android_Pro\\android_sdk\\new_SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+    "-DCMAKE_MAKE_PROGRAM\u003dD:\\AndroidFiles\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
   ]
 }
 
@@ -59,12 +59,12 @@ CMAKE SERVER:
 
 CMAKE SERVER: [== "CMake Server" ==[
 
-CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe","type":"message"}
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe","type":"message"}
 
 CMAKE SERVER: ]== "CMake Server" ==]
 
-CMAKE SERVER: Check for working C compiler: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
-CMAKE SERVER: Check for working C compiler: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+CMAKE SERVER: Check for working C compiler: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+CMAKE SERVER: Check for working C compiler: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
 CMAKE SERVER: 
 
 CMAKE SERVER: [== "CMake Server" ==[
@@ -77,12 +77,12 @@ CMAKE SERVER:
 
 CMAKE SERVER: [== "CMake Server" ==[
 
-CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works","type":"message"}
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works","type":"message"}
 
 CMAKE SERVER: ]== "CMake Server" ==]
 
-CMAKE SERVER: Check for working C compiler: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
-CMAKE SERVER: Check for working C compiler: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
+CMAKE SERVER: Check for working C compiler: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
+CMAKE SERVER: Check for working C compiler: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
 CMAKE SERVER: 
 
 CMAKE SERVER: [== "CMake Server" ==[
@@ -159,12 +159,12 @@ CMAKE SERVER:
 
 CMAKE SERVER: [== "CMake Server" ==[
 
-CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working CXX compiler: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe","type":"message"}
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working CXX compiler: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe","type":"message"}
 
 CMAKE SERVER: ]== "CMake Server" ==]
 
-CMAKE SERVER: Check for working CXX compiler: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
-CMAKE SERVER: Check for working CXX compiler: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+CMAKE SERVER: Check for working CXX compiler: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+CMAKE SERVER: Check for working CXX compiler: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
 CMAKE SERVER: 
 
 CMAKE SERVER: [== "CMake Server" ==[
@@ -177,12 +177,12 @@ CMAKE SERVER:
 
 CMAKE SERVER: [== "CMake Server" ==[
 
-CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working CXX compiler: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works","type":"message"}
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working CXX compiler: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works","type":"message"}
 
 CMAKE SERVER: ]== "CMake Server" ==]
 
-CMAKE SERVER: Check for working CXX compiler: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
-CMAKE SERVER: Check for working CXX compiler: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
+CMAKE SERVER: Check for working CXX compiler: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
+CMAKE SERVER: Check for working CXX compiler: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
 CMAKE SERVER: 
 
 CMAKE SERVER: [== "CMake Server" ==[
@@ -395,12 +395,12 @@ CMAKE SERVER:
 
 CMAKE SERVER: [== "CMake Server" ==[
 
-CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Found Vulkan: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/24/libvulkan.so  ","type":"message"}
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Found Vulkan: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/24/libvulkan.so  ","type":"message"}
 
 CMAKE SERVER: ]== "CMake Server" ==]
 
-CMAKE SERVER: Found Vulkan: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/24/libvulkan.so  
-CMAKE SERVER: Found Vulkan: D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/24/libvulkan.so  
+CMAKE SERVER: Found Vulkan: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/24/libvulkan.so  
+CMAKE SERVER: Found Vulkan: D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/24/libvulkan.so  
 CMAKE SERVER: 
 
 CMAKE SERVER: [== "CMake Server" ==[
@@ -468,7 +468,79 @@ CMAKE SERVER:
 
 CMAKE SERVER: [== "CMake Server" ==[
 
-CMAKE SERVER: {"buildFiles":[{"isCMake":true,"isTemporary":false,"sources":["D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindOpenMP.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindThreads.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckLibraryExists.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckSymbolExists.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.c.in","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeConfigurableFile.in","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindVulkan.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake","D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindDependencyMacro.cmake"]},{"isCMake":false,"isTemporary":false,"sources":["CMakeLists.txt","D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/build/cmake/android.toolchain.cmake","D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/build/cmake/platforms.cmake","D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/build/cmake/android.toolchain.cmake","arm64-v8a/lib/cmake/ncnn/ncnnConfig.cmake","arm64-v8a/lib/cmake/glslang/glslang-config-version.cmake","arm64-v8a/lib/cmake/glslang/glslang-config.cmake","arm64-v8a/lib/cmake/glslang/glslang-targets.cmake","arm64-v8a/lib/cmake/glslang/glslang-targets-release.cmake","arm64-v8a/lib/cmake/ncnn/ncnn.cmake","arm64-v8a/lib/cmake/ncnn/ncnn-release.cmake"]},{"isCMake":false,"isTemporary":true,"sources":["../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/FindOpenMP/OpenMPTryFlag.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp"]}],"cmakeRootDirectory":"D:/Android_Pro/android_sdk/new_SDK/cmake/3.10.2.4988404/share/cmake-3.10","cookie":"","inReplyTo":"cmakeInputs","sourceDirectory":"D:/android_project/cnn/ncnn-android-yolov5-master/ncnn-android-yolov5-master/app/src/main/jni","type":"reply"}
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"dirty","type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/src/main/jni/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/src/main/jni/arm64-v8a/lib/cmake/ncnn/ncnnConfig.cmake","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/src/main/jni/arm64-v8a/lib/cmake/ncnn/ncnn.cmake","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/src/main/jni/arm64-v8a/lib/cmake/ncnn/ncnn-release.cmake","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/src/main/jni/arm64-v8a/lib/cmake/glslang/glslang-config-version.cmake","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/src/main/jni/arm64-v8a/lib/cmake/glslang/glslang-targets-release.cmake","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/src/main/jni/arm64-v8a/lib/cmake/glslang/glslang-config.cmake","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/src/main/jni/arm64-v8a/lib/cmake/glslang/glslang-targets.cmake","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"buildFiles":[{"isCMake":true,"isTemporary":false,"sources":["D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindOpenMP.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindThreads.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckLibraryExists.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckSymbolExists.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.c.in","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeConfigurableFile.in","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindVulkan.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake","D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindDependencyMacro.cmake"]},{"isCMake":false,"isTemporary":false,"sources":["CMakeLists.txt","D:/AndroidFiles/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake","D:/AndroidFiles/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake","D:/AndroidFiles/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake","arm64-v8a/lib/cmake/ncnn/ncnnConfig.cmake","arm64-v8a/lib/cmake/glslang/glslang-config-version.cmake","arm64-v8a/lib/cmake/glslang/glslang-config.cmake","arm64-v8a/lib/cmake/glslang/glslang-targets.cmake","arm64-v8a/lib/cmake/glslang/glslang-targets-release.cmake","arm64-v8a/lib/cmake/ncnn/ncnn.cmake","arm64-v8a/lib/cmake/ncnn/ncnn-release.cmake"]},{"isCMake":false,"isTemporary":true,"sources":["../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/FindOpenMP/OpenMPTryFlag.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp"]}],"cmakeRootDirectory":"D:/AndroidFiles/sdk/cmake/3.10.2.4988404/share/cmake-3.10","cookie":"","inReplyTo":"cmakeInputs","sourceDirectory":"C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/src/main/jni","type":"reply"}
 
 CMAKE SERVER: ]== "CMake Server" ==]
 
@@ -482,7 +554,7 @@ CMAKE SERVER:
 
 CMAKE SERVER: [== "CMake Server" ==[
 
-CMAKE SERVER: {"configurations":[{"name":"Debug","projects":[{"buildDirectory":"D:/android_project/cnn/ncnn-android-yolov5-master/ncnn-android-yolov5-master/app/.cxx/cmake/debug/arm64-v8a","name":"yolov5ncnn","sourceDirectory":"D:/android_project/cnn/ncnn-android-yolov5-master/ncnn-android-yolov5-master/app/src/main/jni","targets":[{"artifacts":["D:/android_project/cnn/ncnn-android-yolov5-master/ncnn-android-yolov5-master/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so"],"buildDirectory":"D:/android_project/cnn/ncnn-android-yolov5-master/ncnn-android-yolov5-master/app/.cxx/cmake/debug/arm64-v8a","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions","defines":["yolov5ncnn_EXPORTS"],"includePath":[{"isSystem":true,"path":"D:/android_project/cnn/ncnn-android-yolov5-master/ncnn-android-yolov5-master/app/src/main/jni/arm64-v8a/include/ncnn"}],"isGenerated":false,"language":"CXX","sources":["yolov5ncnn_jni.cpp"]}],"fullName":"libyolov5ncnn.so","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"D:\\android_project\\cnn\\ncnn-android-yolov5-master\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\libncnn.a -ljnigraphics -fopenmp -static-openmp -Wl,-wrap,__kmp_affinity_determine_capable D:\\Android_Pro\\android_sdk\\new_SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\24\\libvulkan.so D:\\android_project\\cnn\\ncnn-android-yolov5-master\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\libglslang.a D:\\android_project\\cnn\\ncnn-android-yolov5-master\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\libSPIRV.a D:\\android_project\\cnn\\ncnn-android-yolov5-master\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\libMachineIndependent.a D:\\android_project\\cnn\\ncnn-android-yolov5-master\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\libOGLCompiler.a D:\\android_project\\cnn\\ncnn-android-yolov5-master\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\libOSDependent.a D:\\android_project\\cnn\\ncnn-android-yolov5-master\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\libGenericCodeGen.a -landroid -ljnigraphics -llog -latomic -lm","linkerLanguage":"CXX","name":"yolov5ncnn","sourceDirectory":"D:/android_project/cnn/ncnn-android-yolov5-master/ncnn-android-yolov5-master/app/src/main/jni","sysroot":"D:/Android_Pro/android_sdk/new_SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]}]}],"cookie":"","inReplyTo":"codemodel","type":"reply"}
+CMAKE SERVER: {"configurations":[{"name":"Debug","projects":[{"buildDirectory":"C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/.cxx/cmake/debug/arm64-v8a","name":"yolov5ncnn","sourceDirectory":"C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/src/main/jni","targets":[{"artifacts":["C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so"],"buildDirectory":"C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/.cxx/cmake/debug/arm64-v8a","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions","defines":["yolov5ncnn_EXPORTS"],"includePath":[{"isSystem":true,"path":"C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/src/main/jni/arm64-v8a/include/ncnn"}],"isGenerated":false,"language":"CXX","sources":["yolov5ncnn_jni.cpp"]}],"fullName":"libyolov5ncnn.so","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\Alpha\\Documents\\GitHub\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\libncnn.a -ljnigraphics -fopenmp -static-openmp -Wl,-wrap,__kmp_affinity_determine_capable D:\\AndroidFiles\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\24\\libvulkan.so C:\\Users\\Alpha\\Documents\\GitHub\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\libglslang.a C:\\Users\\Alpha\\Documents\\GitHub\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\libSPIRV.a C:\\Users\\Alpha\\Documents\\GitHub\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\libMachineIndependent.a C:\\Users\\Alpha\\Documents\\GitHub\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\libOGLCompiler.a C:\\Users\\Alpha\\Documents\\GitHub\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\libOSDependent.a C:\\Users\\Alpha\\Documents\\GitHub\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\libGenericCodeGen.a -landroid -ljnigraphics -llog -latomic -lm","linkerLanguage":"CXX","name":"yolov5ncnn","sourceDirectory":"C:/Users/Alpha/Documents/GitHub/ncnn-android-yolov5-master/app/src/main/jni","sysroot":"D:/AndroidFiles/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]}]}],"cookie":"","inReplyTo":"codemodel","type":"reply"}
 
 CMAKE SERVER: ]== "CMake Server" ==]
 
