@@ -193,7 +193,7 @@ public class MainActivity extends Activity
             }
             catch (FileNotFoundException e)
             {
-                Log.e("MainActivity", "FileNotFoundException");
+                Log.e("MainActivity", "FileNotFoundException！");
                 return;
             }
         }
